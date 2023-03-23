@@ -1,24 +1,51 @@
 # TODO TASK APP
 
-TODO Task App in ReactJS. Functions for adding, editing, toggling and deleting were improved.
+The Todo Task App is a simple application for managing your daily tasks. With this app, you can easily keep track of all the tasks you need to complete and ensure that you don't forget anything important. This README file will provide you with all the necessary information to get started with the app.
 
-## How to Use
+## Getting Started
 
-Clone 
+To get started with the Todo Task App, you will need to have the following installed on your computer:
 
-        -git@github.com:aminahagi/TodoTaskApp.git
+- Node.js
+- npm
 
-or download repo
+Once you have these installed, you can follow the steps below:
 
+- Clone the repository to your local machine.
 
-Open terminal 
-Run these commands:
+        git@github.com:aminahagi/TodoTaskApp.git
 
-### Install Dependencies
+- Navigate to the project directory in your terminal.
+- Run the command 
 
-npm install
+        npm install 
 
-### Run app
+    to install all the necessary dependencies.
+- Run the command 
 
-npm start
+        npm start 
 
+    to start the app.
+
+## Using the App
+
+When you first open the app, you will see a list of all the tasks that you have added. You can add a new task by clicking the "Add Task" button and filling out the form. You can edit an existing task by clicking on it and modifying the information. You can mark a task as complete by clicking on the checkbox next to it.
+
+## Contributing
+
+If you would like to contribute to the Todo Task App, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Implement your feature.
+4. Test your feature to ensure that it works as expected.
+5. Submit a pull request to the main repository.
+
+## License
+
+The Todo Task App is licensed under the MIT License. See the  `LICENSE`
+ file for more information.
+
+ ## Author
+
+ <b>Amina Hagi<b>
